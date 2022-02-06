@@ -1,0 +1,61 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 0.8%;
+    padding-bottom: 0.8%;
+}
+
+header a{
+    /*text-decoration: none;*/
+    color: white;
+}
+
+.cursiva{
+    font-style: italic;
+}
+
+
+
+main{
+    margin-left: 32%;
+    margin-right: 32%;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+div{
+    border-left: 2px solid red ;
+    background-color: rgb(236, 231, 231);
+    padding: 10pxs;
+}
+ul.robMov{
+    list-style-image:url("icon-robot.png");
+
+}
+
+
+.listado{
+    list-style-type: square;
+    /*list-style-image: none;*/
+}
+
+
+.disco{
+    list-style-type: disc;
+}
+
+
+
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 3%;
+}
