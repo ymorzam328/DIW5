@@ -1,0 +1,70 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 0.8%;
+    padding-bottom: 0.8%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}   
+
+header a{
+    text-decoration: none;
+    color: white;
+    
+    text-align: center;
+}
+
+.cursiva{
+    font-style: italic;
+}
+
+
+
+main{
+    margin-left: 18%;
+    margin-right: 18%;
+    text-align: left;
+    
+}
+
+figure.a{
+    text-decoration: none;
+    color: orangered;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+}
+
+#rojo{
+    text-decoration: none;
+    color:darkblue;
+    text-align: center;
+}
+
+a:hover{
+    color : red;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+span  {
+    text-decoration: none;
+    font-style: italic;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 3%;
+}

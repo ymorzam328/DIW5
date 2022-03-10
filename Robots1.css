@@ -40,12 +40,14 @@ ul.robMov{
 
 .cuadrado{
     list-style-type: square;
-    /*list-style-image: none;*/
+    list-style-image: none
+    
 }
 
 
 .disco{
     list-style-type: disc;
+    list-style-image: none
 }
 
 
